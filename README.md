@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a .NET Software Developer
+## Hi there 👋 I'm a Software Developer
 
 <div>
   <a href="https://github.com/JulioNCavalcanti">
