@@ -1,8 +1,11 @@
-## Hi there 👋 I'm a Software Developer
+<h2>Hi there 👋</h1> 
 
-<div>
-  <a href="https://github.com/JulioNCavalcanti">
-    <img loading="lazy" height="190em" src="https://readme-stats-julio-nunes-cavalcantis-projects.vercel.app/api?username=JulioNCavalcanti&count_private=true&layout=compact&langs_count=7&theme=transparent&include_all_commits=true" />
-    <img loading="lazy" height="190em" src="https://readme-stats-julio-nunes-cavalcantis-projects.vercel.app/api/top-langs/?username=JulioNCavalcanti&count_private=true&layout=compact&langs_count=7&theme=transparent&include_all_commits=true&&hide=javascript" />
+<p>I'm a Software Developer with a passion for technology. Specializing in Backend, Cloud, DevOps, and Android, I build solutions that impact millions of people. In my spare time, I enjoy solving algorithmic problems and exploring new technologies.</p>
+
+<h3 align="center">My Skils:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,js,docker,aws,terraform,mysql,postgres,mongodb&theme=dark" />
   </a>
-</div>
+</p>
