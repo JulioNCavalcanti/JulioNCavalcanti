@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,js,docker,aws,terraform,mysql,postgres,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,js,cpp,docker,aws,terraform,mysql,postgres,mongodb&theme=dark" />
   </a>
 </p>
