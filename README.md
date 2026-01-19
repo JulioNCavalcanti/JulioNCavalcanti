@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h1> 
 
-<p>I'm a Software Developer with a passion for technology. Specializing in Backend, Cloud, DevOps, and Android, I build solutions that impact millions of people. In my spare time, I enjoy solving algorithmic problems and exploring new technologies.</p>
+<p>Software Engineer passionate about technology. I work with Backend, Cloud, and DevOps, leveraging experience in financial services to build solutions that impact millions of people. In my free time, I enjoy solving algorithmic</p>
 
 <h3 align="center">My Skils:</h3>
 
